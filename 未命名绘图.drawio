@@ -1,9 +1,94 @@
-<mxfile host="app.diagrams.net" modified="2024-04-01T14:11:18.024Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" version="24.2.1" etag="C4EJQQFQXcRiRalCcvGW" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-01T14:13:18.060Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="ZWKgHEXmfJ8lkgBBT5sx" version="24.2.1" type="github">
   <diagram name="第 1 页" id="wU-X7JaxsdOvZIsjRF7p">
-    <mxGraphModel>
+    <mxGraphModel dx="1221" dy="-410" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="o_MQlFLdlcNvu8LTCIbA-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="o_MQlFLdlcNvu8LTCIbA-28" target="o_MQlFLdlcNvu8LTCIbA-30" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o_MQlFLdlcNvu8LTCIbA-28" value="Begin" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;glass=0;strokeWidth=1;shadow=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="540" y="1230" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="o_MQlFLdlcNvu8LTCIbA-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="o_MQlFLdlcNvu8LTCIbA-30" target="o_MQlFLdlcNvu8LTCIbA-32" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o_MQlFLdlcNvu8LTCIbA-30" value="Initialize each parameter in&amp;nbsp;the particle swarm" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="460" y="1320" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o_MQlFLdlcNvu8LTCIbA-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="o_MQlFLdlcNvu8LTCIbA-32" target="o_MQlFLdlcNvu8LTCIbA-34" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o_MQlFLdlcNvu8LTCIbA-32" value="Using chaotic map to initialize the velocity and position of particles" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="460" y="1410" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o_MQlFLdlcNvu8LTCIbA-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="o_MQlFLdlcNvu8LTCIbA-34" target="o_MQlFLdlcNvu8LTCIbA-36" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o_MQlFLdlcNvu8LTCIbA-34" value="Discretization and calculation&amp;nbsp;of particle fitness value" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="460" y="1500" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o_MQlFLdlcNvu8LTCIbA-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="o_MQlFLdlcNvu8LTCIbA-36" target="o_MQlFLdlcNvu8LTCIbA-38" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o_MQlFLdlcNvu8LTCIbA-36" value="Calculate individual optimal value and global optimal value" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="440" y="1590" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o_MQlFLdlcNvu8LTCIbA-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="o_MQlFLdlcNvu8LTCIbA-38" target="o_MQlFLdlcNvu8LTCIbA-40" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o_MQlFLdlcNvu8LTCIbA-38" value="Update the particle velocity information and particle position information according to the improved inertia weight and learning factor" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="370" y="1680" width="460" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="o_MQlFLdlcNvu8LTCIbA-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="o_MQlFLdlcNvu8LTCIbA-40" target="o_MQlFLdlcNvu8LTCIbA-42" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o_MQlFLdlcNvu8LTCIbA-40" value="Perform boundary processing&amp;nbsp;and discretization" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="455" y="1800" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o_MQlFLdlcNvu8LTCIbA-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="o_MQlFLdlcNvu8LTCIbA-42" target="o_MQlFLdlcNvu8LTCIbA-44" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o_MQlFLdlcNvu8LTCIbA-42" value="Calculate individual optimal value and global Calculate the fitness value and update the individual extreme value and global extreme value" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="370" y="1890" width="460" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="o_MQlFLdlcNvu8LTCIbA-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="o_MQlFLdlcNvu8LTCIbA-44" target="o_MQlFLdlcNvu8LTCIbA-46" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o_MQlFLdlcNvu8LTCIbA-44" value="Cauchy variation based&amp;nbsp;on fitness variance" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="460" y="2010" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o_MQlFLdlcNvu8LTCIbA-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=20;" edge="1" source="o_MQlFLdlcNvu8LTCIbA-46" target="o_MQlFLdlcNvu8LTCIbA-48" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o_MQlFLdlcNvu8LTCIbA-46" value="Update the global optimal value according to the mutation particles generated after Cauchy mutation" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="425" y="2110" width="350" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="o_MQlFLdlcNvu8LTCIbA-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=20;" edge="1" source="o_MQlFLdlcNvu8LTCIbA-48" target="o_MQlFLdlcNvu8LTCIbA-49" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o_MQlFLdlcNvu8LTCIbA-48" value="Maximum iterations" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontFamily=Times New Roman;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="482.5" y="2210" width="235" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="o_MQlFLdlcNvu8LTCIbA-49" value="End" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;glass=0;strokeWidth=1;shadow=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="540" y="2380" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="o_MQlFLdlcNvu8LTCIbA-50" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" source="o_MQlFLdlcNvu8LTCIbA-48" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="950" y="2310" as="sourcePoint" />
+            <mxPoint x="600" y="1660" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="890" y="2274" />
+              <mxPoint x="890" y="1660" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="o_MQlFLdlcNvu8LTCIbA-51" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="615" y="2323" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="o_MQlFLdlcNvu8LTCIbA-52" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="785" y="2223" width="50" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
