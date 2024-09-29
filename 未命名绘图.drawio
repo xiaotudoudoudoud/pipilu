@@ -55,7 +55,7 @@
         <mxCell id="o_MQlFLdlcNvu8LTCIbA-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;fontSize=18;" parent="1" source="o_MQlFLdlcNvu8LTCIbA-44" target="o_MQlFLdlcNvu8LTCIbA-46" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="o_MQlFLdlcNvu8LTCIbA-44" value="&lt;font style=&quot;vertical-align: inherit; font-size: 18px;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; font-size: 18px;&quot;&gt;基于适应度方差的柯西变分&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=18;" parent="1" vertex="1">
+        <mxCell id="o_MQlFLdlcNvu8LTCIbA-44" value="&lt;font style=&quot;vertical-align: inherit; font-size: 18px;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; font-size: 18px;&quot;&gt;基于适应度方差的柯西变异&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="480" y="1990" width="280" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o_MQlFLdlcNvu8LTCIbA-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;fontSize=18;" parent="1" source="o_MQlFLdlcNvu8LTCIbA-46" target="o_MQlFLdlcNvu8LTCIbA-48" edge="1">
