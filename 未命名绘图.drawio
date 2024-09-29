@@ -1,93 +1,93 @@
-<mxfile host="app.diagrams.net" modified="2024-05-17T09:10:35.495Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="D2XX6snm7HGPYLF8HHB1" version="24.4.3" type="github">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.16">
   <diagram name="第 1 页" id="wU-X7JaxsdOvZIsjRF7p">
-    <mxGraphModel dx="1290" dy="-600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="-600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="o_MQlFLdlcNvu8LTCIbA-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="o_MQlFLdlcNvu8LTCIbA-28" target="o_MQlFLdlcNvu8LTCIbA-30" edge="1">
+        <mxCell id="o_MQlFLdlcNvu8LTCIbA-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;fontSize=18;" parent="1" source="o_MQlFLdlcNvu8LTCIbA-28" target="o_MQlFLdlcNvu8LTCIbA-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="o_MQlFLdlcNvu8LTCIbA-28" value="Begin" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;glass=0;strokeWidth=1;shadow=0;fontFamily=Times New Roman;" parent="1" vertex="1">
+        <mxCell id="o_MQlFLdlcNvu8LTCIbA-28" value="&lt;font style=&quot;vertical-align: inherit; font-size: 18px;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; font-size: 18px;&quot;&gt;开始&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;glass=0;strokeWidth=1;shadow=0;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="560" y="1250" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="o_MQlFLdlcNvu8LTCIbA-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="o_MQlFLdlcNvu8LTCIbA-30" target="o_MQlFLdlcNvu8LTCIbA-32" edge="1">
+        <mxCell id="o_MQlFLdlcNvu8LTCIbA-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;fontSize=18;" parent="1" source="o_MQlFLdlcNvu8LTCIbA-30" target="o_MQlFLdlcNvu8LTCIbA-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="o_MQlFLdlcNvu8LTCIbA-30" value="Initialize each parameter in&amp;nbsp;the particle swarm" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;" parent="1" vertex="1">
+        <mxCell id="o_MQlFLdlcNvu8LTCIbA-30" value="&lt;font style=&quot;vertical-align: inherit; font-size: 18px;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; font-size: 18px;&quot;&gt;初始化粒子群中的各个参数&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="480" y="1320" width="280" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="o_MQlFLdlcNvu8LTCIbA-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="o_MQlFLdlcNvu8LTCIbA-32" target="o_MQlFLdlcNvu8LTCIbA-34" edge="1">
+        <mxCell id="o_MQlFLdlcNvu8LTCIbA-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;fontSize=18;" parent="1" source="o_MQlFLdlcNvu8LTCIbA-32" target="o_MQlFLdlcNvu8LTCIbA-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="o_MQlFLdlcNvu8LTCIbA-32" value="Using chaotic map to initialize the velocity and position of particles" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;" parent="1" vertex="1">
+        <mxCell id="o_MQlFLdlcNvu8LTCIbA-32" value="&lt;font style=&quot;vertical-align: inherit; font-size: 18px;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; font-size: 18px;&quot;&gt;使用混沌映射初始化粒子的速度和位置&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="480" y="1410" width="280" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="o_MQlFLdlcNvu8LTCIbA-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="o_MQlFLdlcNvu8LTCIbA-34" target="o_MQlFLdlcNvu8LTCIbA-36" edge="1">
+        <mxCell id="o_MQlFLdlcNvu8LTCIbA-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;fontSize=18;" parent="1" source="o_MQlFLdlcNvu8LTCIbA-34" target="o_MQlFLdlcNvu8LTCIbA-36" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="o_MQlFLdlcNvu8LTCIbA-34" value="Discretization and calculation&amp;nbsp;of particle fitness value" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;" parent="1" vertex="1">
+        <mxCell id="o_MQlFLdlcNvu8LTCIbA-34" value="&lt;font style=&quot;vertical-align: inherit; font-size: 18px;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; font-size: 18px;&quot;&gt;粒子适应度值的离散化与计算&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="480" y="1500" width="280" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="o_MQlFLdlcNvu8LTCIbA-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="o_MQlFLdlcNvu8LTCIbA-36" target="o_MQlFLdlcNvu8LTCIbA-38" edge="1">
+        <mxCell id="o_MQlFLdlcNvu8LTCIbA-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;fontSize=18;" parent="1" source="o_MQlFLdlcNvu8LTCIbA-36" target="o_MQlFLdlcNvu8LTCIbA-38" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="o_MQlFLdlcNvu8LTCIbA-36" value="Calculate individual optimal value and global optimal value" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="460" y="1590" width="320" height="60" as="geometry" />
+        <mxCell id="o_MQlFLdlcNvu8LTCIbA-36" value="&lt;font style=&quot;vertical-align: inherit; font-size: 18px;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; font-size: 18px;&quot;&gt;计算个体最优值和全局最优值&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="480" y="1590" width="280" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="o_MQlFLdlcNvu8LTCIbA-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="o_MQlFLdlcNvu8LTCIbA-38" target="o_MQlFLdlcNvu8LTCIbA-40" edge="1">
+        <mxCell id="o_MQlFLdlcNvu8LTCIbA-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;fontSize=18;" parent="1" source="o_MQlFLdlcNvu8LTCIbA-38" target="o_MQlFLdlcNvu8LTCIbA-40" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="o_MQlFLdlcNvu8LTCIbA-38" value="Update the particle velocity information and particle position information according to the improved inertia weight and learning factor" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="390" y="1680" width="460" height="80" as="geometry" />
+        <mxCell id="o_MQlFLdlcNvu8LTCIbA-38" value="&lt;font style=&quot;vertical-align: inherit; font-size: 18px;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; font-size: 18px;&quot;&gt;根据改进后的惯性权重和学习因子更新粒子速度和粒子位置&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="480" y="1680" width="280" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="o_MQlFLdlcNvu8LTCIbA-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="o_MQlFLdlcNvu8LTCIbA-40" target="o_MQlFLdlcNvu8LTCIbA-42" edge="1">
+        <mxCell id="o_MQlFLdlcNvu8LTCIbA-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;fontSize=18;" parent="1" source="o_MQlFLdlcNvu8LTCIbA-40" target="o_MQlFLdlcNvu8LTCIbA-42" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="o_MQlFLdlcNvu8LTCIbA-40" value="Perform boundary processing&amp;nbsp;and discretization" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;" parent="1" vertex="1">
+        <mxCell id="o_MQlFLdlcNvu8LTCIbA-40" value="&lt;font style=&quot;vertical-align: inherit; font-size: 18px;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; font-size: 18px;&quot;&gt;执行边界处理和离散化&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="475" y="1790" width="290" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="o_MQlFLdlcNvu8LTCIbA-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="o_MQlFLdlcNvu8LTCIbA-42" target="o_MQlFLdlcNvu8LTCIbA-44" edge="1">
+        <mxCell id="o_MQlFLdlcNvu8LTCIbA-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;fontSize=18;" parent="1" source="o_MQlFLdlcNvu8LTCIbA-42" target="o_MQlFLdlcNvu8LTCIbA-44" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="o_MQlFLdlcNvu8LTCIbA-42" value="Calculate individual optimal value and global Calculate the fitness value and update the individual extreme value and global extreme value" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;" parent="1" vertex="1">
+        <mxCell id="o_MQlFLdlcNvu8LTCIbA-42" value="&lt;font style=&quot;vertical-align: inherit; font-size: 18px;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; font-size: 18px;&quot;&gt;计算个体最优值和全局计算适应度值，更新个体极值和全局极值&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="390" y="1880" width="460" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="o_MQlFLdlcNvu8LTCIbA-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="o_MQlFLdlcNvu8LTCIbA-44" target="o_MQlFLdlcNvu8LTCIbA-46" edge="1">
+        <mxCell id="o_MQlFLdlcNvu8LTCIbA-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;fontSize=18;" parent="1" source="o_MQlFLdlcNvu8LTCIbA-44" target="o_MQlFLdlcNvu8LTCIbA-46" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="o_MQlFLdlcNvu8LTCIbA-44" value="Cauchy variation based&amp;nbsp;on fitness variance" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;" parent="1" vertex="1">
+        <mxCell id="o_MQlFLdlcNvu8LTCIbA-44" value="&lt;font style=&quot;vertical-align: inherit; font-size: 18px;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; font-size: 18px;&quot;&gt;基于适应度方差的柯西变分&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="480" y="1990" width="280" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="o_MQlFLdlcNvu8LTCIbA-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=20;" parent="1" source="o_MQlFLdlcNvu8LTCIbA-46" target="o_MQlFLdlcNvu8LTCIbA-48" edge="1">
+        <mxCell id="o_MQlFLdlcNvu8LTCIbA-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;fontSize=18;" parent="1" source="o_MQlFLdlcNvu8LTCIbA-46" target="o_MQlFLdlcNvu8LTCIbA-48" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="o_MQlFLdlcNvu8LTCIbA-46" value="Update the global optimal value according to the mutation particles generated after Cauchy mutation" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;" parent="1" vertex="1">
+        <mxCell id="o_MQlFLdlcNvu8LTCIbA-46" value="&lt;font style=&quot;vertical-align: inherit; font-size: 18px;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; font-size: 18px;&quot;&gt;根据柯西变异后产生的变异粒子更新全局最优值&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="445" y="2080" width="350" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="o_MQlFLdlcNvu8LTCIbA-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=20;" parent="1" source="o_MQlFLdlcNvu8LTCIbA-48" target="o_MQlFLdlcNvu8LTCIbA-49" edge="1">
+        <mxCell id="o_MQlFLdlcNvu8LTCIbA-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;fontSize=18;" parent="1" source="o_MQlFLdlcNvu8LTCIbA-48" target="o_MQlFLdlcNvu8LTCIbA-49" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="o_MQlFLdlcNvu8LTCIbA-48" value="Maximum iterations" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontFamily=Times New Roman;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="502.5" y="2190" width="235" height="130" as="geometry" />
+        <mxCell id="o_MQlFLdlcNvu8LTCIbA-48" value="&lt;font style=&quot;vertical-align: inherit; font-size: 18px;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; font-size: 18px;&quot;&gt;最大迭代次数&lt;/font&gt;&lt;/font&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontFamily=Verdana;fontSize=18;spacing=0;" parent="1" vertex="1">
+          <mxGeometry x="502.5" y="2190" width="235" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="o_MQlFLdlcNvu8LTCIbA-49" value="End" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;glass=0;strokeWidth=1;shadow=0;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="560" y="2350" width="120" height="40" as="geometry" />
+        <mxCell id="o_MQlFLdlcNvu8LTCIbA-49" value="&lt;font style=&quot;vertical-align: inherit; font-size: 18px;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; font-size: 18px;&quot;&gt;结束&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;glass=0;strokeWidth=1;shadow=0;fontFamily=Verdana;" parent="1" vertex="1">
+          <mxGeometry x="560" y="2290" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="o_MQlFLdlcNvu8LTCIbA-50" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="o_MQlFLdlcNvu8LTCIbA-48" edge="1">
+        <mxCell id="o_MQlFLdlcNvu8LTCIbA-50" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;fontFamily=Verdana;fontSize=18;" parent="1" source="o_MQlFLdlcNvu8LTCIbA-48" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="970" y="2310" as="sourcePoint" />
             <mxPoint x="620" y="1660" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="910" y="2255" />
+              <mxPoint x="910" y="2225" />
               <mxPoint x="910" y="1660" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="o_MQlFLdlcNvu8LTCIbA-51" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="630" y="2310" width="50" height="40" as="geometry" />
+        <mxCell id="o_MQlFLdlcNvu8LTCIbA-51" value="&lt;font style=&quot;vertical-align: inherit; font-size: 18px;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; font-size: 18px;&quot;&gt;是&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Verdana;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="640" y="2250" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="o_MQlFLdlcNvu8LTCIbA-52" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="805" y="2223" width="50" height="40" as="geometry" />
+        <mxCell id="o_MQlFLdlcNvu8LTCIbA-52" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Verdana;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="810" y="2223" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
