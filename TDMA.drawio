@@ -1,9 +1,78 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.0">
   <diagram name="第 1 页" id="rF555OAufcKsLrmw8D53">
-    <mxGraphModel>
+    <mxGraphModel dx="1615" dy="875" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="u8RA_g6p_Rst3rxYI_7o-1" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="280" as="sourcePoint" />
+            <mxPoint x="670" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u8RA_g6p_Rst3rxYI_7o-2" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="280" as="sourcePoint" />
+            <mxPoint x="40" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u8RA_g6p_Rst3rxYI_7o-3" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Verdana&quot;&gt;用户1&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="50" y="160" width="30" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="u8RA_g6p_Rst3rxYI_7o-4" value="&lt;span style=&quot;font-family: Verdana; font-size: 18px;&quot;&gt;用户2&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="80" y="160" width="30" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="u8RA_g6p_Rst3rxYI_7o-5" value="&lt;span style=&quot;font-family: Verdana; font-size: 18px;&quot;&gt;用户N&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="160" y="160" width="30" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="u8RA_g6p_Rst3rxYI_7o-6" value="&lt;span style=&quot;font-family: Verdana; font-size: 18px;&quot;&gt;用户1&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="190" y="160" width="30" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="u8RA_g6p_Rst3rxYI_7o-7" value="&lt;span style=&quot;font-family: Verdana; font-size: 18px;&quot;&gt;用户2&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="220" y="160" width="30" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="u8RA_g6p_Rst3rxYI_7o-8" value="&lt;span style=&quot;font-family: Verdana; font-size: 18px;&quot;&gt;用户N&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="290" y="160" width="30" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="u8RA_g6p_Rst3rxYI_7o-16" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Verdana&quot;&gt;用户1&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="370" y="160" width="30" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="u8RA_g6p_Rst3rxYI_7o-17" value="&lt;span style=&quot;font-family: Verdana; font-size: 18px;&quot;&gt;用户2&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="400" y="160" width="30" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="u8RA_g6p_Rst3rxYI_7o-20" value="&lt;font style=&quot;font-size: 20px;&quot; face=&quot;Times New Roman&quot;&gt;...&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="200" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="u8RA_g6p_Rst3rxYI_7o-25" value="&lt;font style=&quot;font-size: 20px;&quot; face=&quot;Times New Roman&quot;&gt;...&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="200" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="u8RA_g6p_Rst3rxYI_7o-26" value="&lt;font style=&quot;font-size: 20px;&quot; face=&quot;Times New Roman&quot;&gt;...&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="200" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="u8RA_g6p_Rst3rxYI_7o-27" value="&lt;span style=&quot;font-family: Verdana; font-size: 18px;&quot;&gt;用户N&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="480" y="160" width="30" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="u8RA_g6p_Rst3rxYI_7o-28" value="&lt;span style=&quot;font-family: Verdana; font-size: 18px;&quot;&gt;用户1&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="510" y="160" width="30" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="u8RA_g6p_Rst3rxYI_7o-29" value="&lt;span style=&quot;font-family: Verdana; font-size: 18px;&quot;&gt;用户2&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="540" y="160" width="30" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="u8RA_g6p_Rst3rxYI_7o-30" value="&lt;span style=&quot;font-family: Verdana; font-size: 18px;&quot;&gt;用户N&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="610" y="160" width="30" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="u8RA_g6p_Rst3rxYI_7o-31" value="&lt;font style=&quot;font-size: 20px;&quot; face=&quot;Times New Roman&quot;&gt;...&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="200" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="u8RA_g6p_Rst3rxYI_7o-32" value="&lt;font style=&quot;font-size: 20px;&quot; face=&quot;Times New Roman&quot;&gt;...&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="200" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="u8RA_g6p_Rst3rxYI_7o-34" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Verdana&quot;&gt;时间&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="590" y="290" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="u8RA_g6p_Rst3rxYI_7o-35" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Verdana&quot;&gt;频率&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="120" width="30" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
